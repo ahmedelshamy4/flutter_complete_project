@@ -59,6 +59,8 @@ dependencies:
   intl: ^0.18.1
   easy_localization: ^3.0.1
   flutter_native_splash: ^2.3.5
+  #A build system for Dart code generation and modular compilation.
+  build_runner: ^2.4.7
 
 dev_dependencies:
   flutter_test:
